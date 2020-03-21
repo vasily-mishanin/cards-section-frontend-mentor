@@ -79,25 +79,25 @@ body {
 .supervisor {
   border-top-color: #45d3d3; }
   .supervisor-image {
-    background: url(/images/icon-supervisor.svg) no-repeat;
+    background: url(../images/icon-supervisor.svg) no-repeat;
     background-position: right; }
 
 .team-builder {
   border-top-color: #ea5353; }
   .team-builder-image {
-    background: url(/images/icon-team-builder.svg) no-repeat;
+    background: url(../images/icon-team-builder.svg) no-repeat;
     background-position: right; }
 
 .karma {
   border-top-color: #fcaf4a; }
   .karma-image {
-    background: url(/images/icon-karma.svg) no-repeat;
+    background: url(../images/icon-karma.svg) no-repeat;
     background-position: right; }
 
 .calculator {
   border-top-color: #549ef2; }
   .calculator-image {
-    background: url(/images/icon-calculator.svg) no-repeat;
+    background: url(../images/icon-calculator.svg) no-repeat;
     background-position: right; }
 
 .attribution {
